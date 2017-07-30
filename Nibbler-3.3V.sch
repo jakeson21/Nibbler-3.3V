@@ -28,7 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Green-Nibbler-3.3V-cache
+LIBS:Nibbler-3.3V-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
